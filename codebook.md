@@ -1,28 +1,41 @@
 Date: 10.03.2022
+
 Output: tidydate.txt
+
 Title: Getting-and-Cleaning-Data-Week-4-Project
+
 Author: "Sceva Nkhoma"
 
 
 Code Book
 The summary tidy dataset "tidydata.txt" has the average of each variable, activity and each subject from the Human Activity Recognition using smartphones data Set.
+
 Description
+
 Data in dataset contains 180 rows and 68 columns for
 •mean(): Mean value
 •std(): Standard deviation
 Identifiers
-The b data is organised by the following values to build mean value and the standard deviation std()
+
+The  data is organised by the following values to build mean value and the standard deviation std()
+
 •subject - The ID of the test subject
 •activity - The activity executed when the corresponding measurements were taken
+
 Activity
+
 The 30 subject are numbered from 1 to 30. Activity column has 6 types as listed below.
+
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
 4. SITTING
 5 .STANDING
 6. LAYING
+
 Measurements of the tidy dataset
+
+
 1."activitylabel"
 2."subject"
 3."tBodyAcc-mean()-X"
