@@ -46,7 +46,7 @@ library(plyr)
                    grepl("std...", colNames)
 )
 
-   # 2.3 Making subset
+   ## 2.3 Making subset
    setforMeanandStd <- finaldataset[ , mean_and_std == TRUE]
 
 # 3.Use descriptive activity names
