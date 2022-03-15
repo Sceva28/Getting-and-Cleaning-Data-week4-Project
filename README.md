@@ -1,6 +1,6 @@
  Getting-and-Cleaning-Data-week4-Project
 
-Repo for Coursera's "Getting and Cleaning Data" Week 4 project. Contains R code, codebook, and tidy data set for the Project.
+Repo for Coursera's "Getting and Cleaning Data" Week 4 project. Contains R code, codebook, and tidy data set for the Project..
 
 Files:
 CodeBook.md  has the description the how to use all of the variables, the data, and any  work that was performed to clean up the data.
